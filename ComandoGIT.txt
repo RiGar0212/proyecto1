@@ -98,6 +98,8 @@ para que el repositorio se vea como pagina principal hay que escribir por eejemp
 
 el git rebase solo debe hacerse en repositorios locales, no debe hacerce e repositorios remotos, es muy mala practica.
 
+para confirmar mensaje ESC y luego ctrl+zz
+
 agregar --help al comando nos abre el manual del mismo.
 
 Notas destacadas del curso:
